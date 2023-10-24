@@ -15,7 +15,7 @@
 ## Técnicas e tecnologias utilizadas
 ## Fontes consultadas 
 
-# Analise dos sites
+# Analise dos Sites:
 ## Shopee 
 ### Descrição dos campos 
 Para que o cadastro se iniciasse foi solicitado o número de celular, e-mail ou Facebook (rede social), no caso da captura de tela feita para o trabalho eu escolhi fazer com número de celular. Logo após foi enviado um código de verificação do número em meu WhatsApp. Após essa etapa precisei definir uma senha que deveria conter pelo menos um caractere minúsculo, pelo menos um caractere maiúsculo, 8-16 caracteres, apenas letras, números e pontuação poderiam ser utilizados. Com isso, o cadastro foi efetuado. Na primeira compra houve a necessidade de efetuar cadastro de endereço, que será usado para saber onde deverá ser enviado a encomenda, foi solicitado: o nome completo do usuário, algum número de contato caso seja necessário, o CEP q será usado como maneira de agilizar o cadastro, caso o CEP seja inserido corretamente, automaticamente o site buscará as seguintes informações: estado e cidade, bairro e a rua, é necessário que o usuário insira ele mesmo o número do local, se o CEP não for inserido/ for inserido incorretamente, o usuário terá que inserir as informações manualmente. após todos os dados sobre o local for situado, o site pede que informe se o local se trata de algum apartamento, ou casa. Foi necessário efetuar um cadastro pessoal, que pedia data de nascimento, e-mail, nome completo, gênero e cpf.
