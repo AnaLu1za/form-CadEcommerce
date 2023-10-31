@@ -29,6 +29,19 @@ Cadastro de endereço:
 * Para cadastrar um endereço, basta informar o nome do destinatário, o endereço completo, o CEP e um ponto de referência.
 
 ## Funcionalidade 
+Passo a passo para se cadastrar:
+
+- Acesse o link no "About"
+- Preencha os campos do cadastro simples.
+- (Opcional) Preencha os campos do cadastro pessoal.
+- (Opcional) Cadastre um endereço.
+- Clique no botão "Salvar".
+
+Dicas para criar uma senha forte:
+- Sua senha deve ter pelo menos 8 caracteres.
+- Sua senha deve conter letras maiúsculas e minúsculas, números e símbolos.
+- Não use senhas que sejam fáceis de adivinhar, como seu nome, data de nascimento ou endereço.
+
 
 ## Técnicas e tecnologias utilizadas
 * ``HTML5``
