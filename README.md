@@ -11,8 +11,16 @@
 * [Banggood](#banggood)
 * [Autores](#autores)
 ## Descrição
+
 ## Funcionalidade 
+
 ## Técnicas e tecnologias utilizadas
+* ``HTML5``
+* ``CSS3``
+* ``VsCode``
+* ``Git``
+* ``GitHub``
+* ``Bootstrap v5.0``
 ## Fontes consultadas 
 
 # Analise dos Sites:
