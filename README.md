@@ -19,9 +19,9 @@ O cadastro pessoal é opcional. Com ele, você poderá cadastrar seus dados pess
 
 * Essas informações são usadas para melhorar a sua experiência de compra, como por exemplo:
 
-``Personalizar o envio de e-mails e notificações;``
-``Oferecer recomendações de produtos;``
-``Facilitar a troca ou devolução de produtos.``
+- ``Personalizar o envio de e-mails e notificações;``
+- ``Oferecer recomendações de produtos;``
+- ``Facilitar a troca ou devolução de produtos.``
 
 Cadastro de endereço
 O cadastro de endereço é necessário para que você possa receber seus pedidos. Você pode cadastrar quantos endereços quiser, como por exemplo o seu endereço residencial, o endereço do trabalho ou o endereço de um amigo ou familiar.
