@@ -22,7 +22,9 @@
 * ``GitHub``
 * ``Bootstrap v5.0``
 ## Fontes consultadas 
-* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+* [Alura - Como escrever um bom README.md](https://www.alura.com.br/artigos/escrever-bom-readme)
+* [Bootstrap](https://getbootstrap.com/docs/5.3/forms/checks-radios/#radios)
+* [Alura - Tipos de type](https://cursos.alura.com.br/forum/topico-type-do-campo-telefone-104370)
 
 # Analise dos Sites:
 ## Shopee:
