@@ -13,6 +13,7 @@ Cadastro simples:
 - O cadastro simples é o primeiro passo para começar a comprar no nosso site. Com ele, você poderá criar uma conta e fazer login para realizar compras, acompanhar seus pedidos e receber notificações sobre novidades e promoções.
 
 * Para se cadastrar, basta informar seu e-mail, número de telefone e senha. Concordar com os termos de uso e com a política de privacidade são partes essenciais. 
+[cadastro simples](img/cad%20simples.png)
 
 Cadastro pessoal:
 - O cadastro pessoal é opcional. Com ele, você poderá cadastrar seus dados pessoais, como data de nascimento, gênero e domumentos.
@@ -22,11 +23,13 @@ Cadastro pessoal:
 - ``Personalizar o envio de e-mails e notificações;``
 - ``Oferecer recomendações de produtos;``
 - ``Facilitar a troca ou devolução de produtos.``
+[cadastro pessoal](img/dados%20pessoais.png)
 
 Cadastro de endereço:
 - O cadastro de endereço é necessário para que você possa receber seus pedidos. Você pode cadastrar quantos endereços quiser, como por exemplo o seu endereço residencial, o endereço do trabalho ou o endereço de um amigo ou familiar.
 
 * Para cadastrar um endereço, basta informar o nome do destinatário, o endereço completo, o CEP e um ponto de referência.
+[cadastro de endereço](img/dados%20de%20cadastro.png)
 
 ## Funcionalidade 
 Passo a passo para se cadastrar:
