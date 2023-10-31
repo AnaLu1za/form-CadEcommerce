@@ -22,6 +22,7 @@
 * ``GitHub``
 * ``Bootstrap v5.0``
 ## Fontes consultadas 
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
 
 # Analise dos Sites:
 ## Shopee:
@@ -56,4 +57,7 @@ O cadastro neste site se mostrou confuso. Para começar o cadastro, o usuário p
 Além disso, o usuário tinha que fornecer informações sobre o país, estado/província/região, cidade e CEP. Por fim, era necessário informar o CPF ou CNPJ. Com isso, o cadastro era concluído e salvo.
 
 ![Site 4](img/Banggood.png)
-## Autores 
+
+## Autor(a)
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Luiza Santos</sub>](https://github.com/AnaLu1za) |  
+| :---: |
