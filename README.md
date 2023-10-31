@@ -5,12 +5,28 @@
 * [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
 * [Fontes Consultadas](#fontes-consultadas)
 * [Analise dos sites](#analise-dos-sites)
-* [Shopee](#shopee)
-* [AliExpress](#aliexpress)
-* [Netshoes](#netshoes)
-* [Banggood](#banggood)
-* [Autores](#autores)
+
 ## Descrição
+O site é separado em três partes: 
+
+Cadastro simples
+O cadastro simples é o primeiro passo para começar a comprar no nosso site. Com ele, você poderá criar uma conta e fazer login para realizar compras, acompanhar seus pedidos e receber notificações sobre novidades e promoções.
+
+* Para se cadastrar, basta informar seu e-mail, número de telefone e senha. Concordar com os termos de uso e com a política de privacidade são partes essenciais. 
+
+Cadastro pessoal
+O cadastro pessoal é opcional. Com ele, você poderá cadastrar seus dados pessoais, como data de nascimento, gênero e domumentos.
+
+* Essas informações são usadas para melhorar a sua experiência de compra, como por exemplo:
+
+``Personalizar o envio de e-mails e notificações;``
+``Oferecer recomendações de produtos;``
+``Facilitar a troca ou devolução de produtos.``
+
+Cadastro de endereço
+O cadastro de endereço é necessário para que você possa receber seus pedidos. Você pode cadastrar quantos endereços quiser, como por exemplo o seu endereço residencial, o endereço do trabalho ou o endereço de um amigo ou familiar.
+
+* Para cadastrar um endereço, basta informar o nome do destinatário, o endereço completo, o CEP e um ponto de referência.
 
 ## Funcionalidade 
 
@@ -21,6 +37,7 @@
 * ``Git``
 * ``GitHub``
 * ``Bootstrap v5.0``
+* ``Bard``
 ## Fontes consultadas 
 * [Alura - Como escrever um bom README.md](https://www.alura.com.br/artigos/escrever-bom-readme)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/forms/checks-radios/#radios)
