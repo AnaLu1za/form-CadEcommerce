@@ -1,7 +1,8 @@
 # Formulário de Cadastro
 ## Índice 
 * [Descrição](#descrição-do-projeto)
-* [Funcionalidade](#funcionalidade)
+* [Introdução](#introdução)
+* [Funcionalidades](#funcionalidades)
 * [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
 * [Fontes Consultadas](#fontes-consultadas)
 * [Analise dos sites](#analise-dos-sites)
@@ -12,7 +13,8 @@ O site é separado em três partes:
 Cadastro simples:
 - O cadastro simples é o primeiro passo para começar a comprar no nosso site. Com ele, você poderá criar uma conta e fazer login para realizar compras, acompanhar seus pedidos e receber notificações sobre novidades e promoções.
 
-* Para se cadastrar, basta informar seu e-mail, número de telefone e senha. Concordar com os termos de uso e com a política de privacidade são partes essenciais. 
+* Para se cadastrar, basta informar seu e-mail, número de telefone e senha. Concordar com os termos de uso e com a política de privacidade são partes essenciais.
+
 ![cadastro simples](img/cad%20simples.png)
 
 Cadastro pessoal:
@@ -23,15 +25,17 @@ Cadastro pessoal:
 - ``Personalizar o envio de e-mails e notificações;``
 - ``Oferecer recomendações de produtos;``
 - ``Facilitar a troca ou devolução de produtos.``
+
 ![cadastro pessoal](img/dados%20pessoais.png)
 
 Cadastro de endereço:
 - O cadastro de endereço é necessário para que você possa receber seus pedidos. Você pode cadastrar quantos endereços quiser, como por exemplo o seu endereço residencial, o endereço do trabalho ou o endereço de um amigo ou familiar.
 
 * Para cadastrar um endereço, basta informar o nome do destinatário, o endereço completo, o CEP e um ponto de referência.
+
 ![cadastro de endereço](img/dados%20de%20cadastro.png)
 
-## Funcionalidade 
+## Introdução 
 Passo a passo para se cadastrar:
 
 - Acesse o link no "About"
@@ -45,6 +49,56 @@ Dicas para criar uma senha forte:
 - Sua senha deve conter letras maiúsculas e minúsculas, números e símbolos.
 - Não use senhas que sejam fáceis de adivinhar, como seu nome, data de nascimento ou endereço.
 
+## Funcionalidades
+**Cadastro simples**
+
+O cadastro simples é um formulário básico que permite ao usuário criar uma conta no site de e-commerce. Ele geralmente inclui os seguintes campos:
+
+* **Nome:** Nome completo do usuário.
+* **E-mail:** Endereço de e-mail do usuário.
+* **Senha:** Senha de acesso do usuário.
+
+Ao preencher o cadastro simples, o usuário poderá fazer compras no site, mas não terá acesso a todas as funcionalidades, como por exemplo, o histórico de pedidos ou a lista de desejos.
+
+**Cadastro pessoal**
+
+O cadastro pessoal é um formulário mais completo que permite ao usuário fornecer informações adicionais sobre si mesmo. Ele geralmente inclui os seguintes campos:
+
+* **Nome:** Nome completo do usuário.
+* **E-mail:** Endereço de e-mail do usuário.
+* **Senha:** Senha de acesso do usuário.
+* **Sexo:** Sexo do usuário.
+* **Data de nascimento:** Data de nascimento do usuário.
+* **Telefone:** Número de telefone do usuário.
+* **Endereço:** Endereço do usuário.
+* **Cidade:** Cidade do usuário.
+* **Estado:** Estado do usuário.
+* **CEP:** CEP do usuário.
+
+Ao preencher o cadastro pessoal, o usuário terá acesso a todas as funcionalidades do site de e-commerce, incluindo o histórico de pedidos e a lista de desejos.
+
+**Cadastro de endereço**
+
+O cadastro de endereço permite ao usuário adicionar endereços para entrega de produtos. Ele geralmente inclui os seguintes campos:
+
+* **Nome:** Nome do destinatário.
+* **Endereço:** Endereço do destinatário.
+* **Cidade:** Cidade do destinatário.
+* **Estado:** Estado do destinatário.
+* **CEP:** CEP do destinatário.
+
+Ao adicionar endereços de entrega, o usuário poderá escolher o endereço de destino ao finalizar uma compra.
+
+**Funcionalidades adicionais**
+
+Além dessas três partes principais, um site de e-commerce também pode incluir as seguintes funcionalidades de cadastro:
+
+* **Cadastro de empresa:** Permite ao usuário criar uma conta para uma empresa.
+* **Cadastro de revendedor:** Permite ao usuário criar uma conta para revender produtos do site.
+* **Cadastro de associação:** Permite ao usuário criar uma conta para se associar a um programa de benefícios.
+
+A escolha das funcionalidades de cadastro a serem implementadas em um site de e-commerce depende das necessidades do negócio e do público-alvo.
+
 
 ## Técnicas e tecnologias utilizadas
 * ``HTML5``
@@ -54,6 +108,8 @@ Dicas para criar uma senha forte:
 * ``GitHub``
 * ``Bootstrap v5.0``
 * ``Bard``
+
+
 ## Fontes consultadas 
 * [Alura - Como escrever um bom README.md](https://www.alura.com.br/artigos/escrever-bom-readme)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/forms/checks-radios/#radios)
