@@ -52,46 +52,43 @@ Dicas para criar uma senha forte:
 ## Funcionalidades
 **Cadastro simples**
 
-O cadastro simples é um formulário básico que permite ao usuário criar uma conta no site de e-commerce. Ele geralmente inclui os seguintes campos:
+O cadastro simples é um formulário básico que permite ao usuário criar uma conta no site de e-commerce. Ele inclui os seguintes campos:
 
-* **Nome:** Nome completo do usuário.
 * **E-mail:** Endereço de e-mail do usuário.
+* **DDD e número de celular:** Número do aparelho telefonico do usuário. 
 * **Senha:** Senha de acesso do usuário.
-
-Ao preencher o cadastro simples, o usuário poderá fazer compras no site, mas não terá acesso a todas as funcionalidades, como por exemplo, o histórico de pedidos ou a lista de desejos.
+* Ao preencher o cadastro simples, o usuário poderá navegar pelo site livremente, mas não poderá realizar compras.
 
 **Cadastro pessoal**
 
-O cadastro pessoal é um formulário mais completo que permite ao usuário fornecer informações adicionais sobre si mesmo. Ele geralmente inclui os seguintes campos:
+O cadastro pessoal é um formulário mais completo que permite ao usuário fornecer informações adicionais sobre si mesmo. Ele inclui os seguintes campos:
 
 * **Nome:** Nome completo do usuário.
-* **E-mail:** Endereço de e-mail do usuário.
-* **Senha:** Senha de acesso do usuário.
+* **CPF:** O Cadastro de Pessoa Física do usuário.
+* **RG:** Registro Geral do usuário.
 * **Sexo:** Sexo do usuário.
 * **Data de nascimento:** Data de nascimento do usuário.
-* **Telefone:** Número de telefone do usuário.
-* **Endereço:** Endereço do usuário.
-* **Cidade:** Cidade do usuário.
-* **Estado:** Estado do usuário.
-* **CEP:** CEP do usuário.
 
-Ao preencher o cadastro pessoal, o usuário terá acesso a todas as funcionalidades do site de e-commerce, incluindo o histórico de pedidos e a lista de desejos.
+* Ao preencher o cadastro pessoal, o usuário terá acesso a todas as funcionalidades do site de e-commerce, incluindo o histórico de pedidos e a lista de desejos.
 
 **Cadastro de endereço**
 
-O cadastro de endereço permite ao usuário adicionar endereços para entrega de produtos. Ele geralmente inclui os seguintes campos:
+O cadastro de endereço permite ao usuário adicionar endereços para entrega de produtos. Ele inclui os seguintes campos:
 
-* **Nome:** Nome do destinatário.
+* **Bairro:** Bairro do destinatário.
 * **Endereço:** Endereço do destinatário.
 * **Cidade:** Cidade do destinatário.
 * **Estado:** Estado do destinatário.
 * **CEP:** CEP do destinatário.
+* **Tipo de endereço:** Tipo de endereço do destinatário.
+* **Complemento:** complemento caso necessário, sobre o endereço do destinatário.
+* **Ponto de referência:** Ponto de referência do local em que será o destinatário.
 
 Ao adicionar endereços de entrega, o usuário poderá escolher o endereço de destino ao finalizar uma compra.
 
 **Funcionalidades adicionais**
 
-Além dessas três partes principais, um site de e-commerce também pode incluir as seguintes funcionalidades de cadastro:
+Além dessas três partes principais, o site de e-commerce também pode incluir as seguintes funcionalidades de cadastro:
 
 * **Cadastro de empresa:** Permite ao usuário criar uma conta para uma empresa.
 * **Cadastro de revendedor:** Permite ao usuário criar uma conta para revender produtos do site.
