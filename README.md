@@ -113,7 +113,7 @@ A escolha das funcionalidades de cadastro a serem implementadas em um site de e-
 * [Alura - Tipos de type](https://cursos.alura.com.br/forum/topico-type-do-campo-telefone-104370)
 
 # Analise dos Sites:
-**Conclusão a partir de todas as analises de sites logo a baixo:**
+**Conclusão a partir de todas as analises de sites:**
 
 1. Nos sites AliExpress e Shopee, não é necessário marcar algo para concordar com as políticas de privacidade e termos de uso. Já nos sites Netshoes e Banggood é necessário concordar marcando um botão, o que de certa forma deixa mais explícito;
 
@@ -129,6 +129,7 @@ A escolha das funcionalidades de cadastro a serem implementadas em um site de e-
 
 7. O site da Netshoes era o único que tinha CAPTCHA (um teste de desafio cognitivo, utilizado como ferramenta antispam)
 
+*As analises detalhadas estarão logo a baixo*
 ## Shopee:
 **Descrição dos campos**
 - Para iniciar o cadastro, é preciso fornecer um número de celular, e-mail ou usar o Facebook como opções de registro. Na captura de tela que escolhi para o trabalho, optei por usar o número de celular. Posteriormente, recebi um código de verificação no WhatsApp. Em seguida, tive que criar uma senha com requisitos específicos: pelo menos um caractere minúsculo, um caractere maiúsculo e um comprimento de 8 a 16 caracteres, permitindo apenas letras, números e pontuação.
