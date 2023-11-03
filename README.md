@@ -113,6 +113,22 @@ A escolha das funcionalidades de cadastro a serem implementadas em um site de e-
 * [Alura - Tipos de type](https://cursos.alura.com.br/forum/topico-type-do-campo-telefone-104370)
 
 # Analise dos Sites:
+**Conclusão a partir de todas as analises de sites logo a baixo:**
+
+1. Nos sites AliExpress e Shopee, não é necessário marcar algo para concordar com as políticas de privacidade e termos de uso. Já nos sites Netshoes e Banggood é necessário concordar marcando um botão, o que de certa forma deixa mais explícito;
+
+2. A Shopee e o AliExpress tiveram uma etapa de verificação (a shopee do número de celular e o aliexpress do e-mail);
+
+3. O cadastro da Netshoes foi o mais simples, compacto e que levou menos tempo para ser efetuado;
+
+4. O cadastro da Shopee foi o único que não pediu a localização (só pediu no cadastro de endereço obviamente);
+
+5. O AliExpress foi o único site que não aprovou a conta em um CPF de um menor de 18 anos, e o mais demorado para ser concluído.
+
+6. O site da Netshoes foi o único que apresentou um campo como “tipo de residência”, enquanto os outros sites deixavam para que o tipo de endereço fosse colocado opcionalmente no campo de complementos.
+
+7. O site da Netshoes era o único que tinha CAPTCHA (um teste de desafio cognitivo, utilizado como ferramenta antispam)
+
 ## Shopee:
 **Descrição dos campos**
 - Para iniciar o cadastro, é preciso fornecer um número de celular, e-mail ou usar o Facebook como opções de registro. Na captura de tela que escolhi para o trabalho, optei por usar o número de celular. Posteriormente, recebi um código de verificação no WhatsApp. Em seguida, tive que criar uma senha com requisitos específicos: pelo menos um caractere minúsculo, um caractere maiúsculo e um comprimento de 8 a 16 caracteres, permitindo apenas letras, números e pontuação.
