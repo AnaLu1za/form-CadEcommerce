@@ -164,5 +164,5 @@ A escolha das funcionalidades de cadastro a serem implementadas em um site de e-
 ![Site 4](img/Banggood.png)
 
 ## Autor(a)
-|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Luiza Santos</sub>](https://github.com/AnaLu1za) |  
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Santos</sub>](https://github.com/AnaLu1za) |  
 | :---: |
