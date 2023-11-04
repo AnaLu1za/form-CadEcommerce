@@ -33,7 +33,7 @@ Cadastro de endereço:
 
 * Para cadastrar um endereço, basta informar o nome do destinatário, o endereço completo, o CEP e um ponto de referência.
 
-![cadastro de endereço](img/dados%20de%20cadastro.png)
+![cadastro de endereço](img/endereço.PNG)
 
 ## Introdução 
 Passo a passo para se cadastrar:
