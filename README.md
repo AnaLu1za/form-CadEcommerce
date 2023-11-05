@@ -1,6 +1,6 @@
 # Formulário de Cadastro
 ## Índice 
-* [Descrição](#descrição-do-projeto)
+* [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
 * [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
