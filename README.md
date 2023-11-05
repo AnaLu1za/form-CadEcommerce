@@ -105,7 +105,7 @@ A escolha das funcionalidades de cadastro a serem implementadas em um site de e-
 * ``GitHub``
 * ``Bootstrap v5.0``
 * ``Bard``
-
+<img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" align="center" heigth="50" width="60">
 
 ## Fontes consultadas 
 * [Alura - Como escrever um bom README.md](https://www.alura.com.br/artigos/escrever-bom-readme)
