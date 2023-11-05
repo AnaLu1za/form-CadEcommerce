@@ -111,6 +111,8 @@ A escolha das funcionalidades de cadastro a serem implementadas em um site de e-
 * [Alura - Tipos de type](https://cursos.alura.com.br/forum/topico-type-do-campo-telefone-104370)
 * [Dio](https://www.dio.me/articles/tutorial-criando-um-readme-bonitao-para-o-seu-github)
 * [Progamador alternativo - Youtube](https://youtu.be/HJ16WEmOWTw?si=UFvCAtBHbuCc08Hu)
+* [Fotos para o subtópico "Técnicas e tecnologias consultadas"](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
 # Analise dos Sites:
 
 **Conclusão a partir de todas as analises de sites:**
