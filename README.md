@@ -106,6 +106,7 @@ A escolha das funcionalidades de cadastro a serem implementadas em um site de e-
 ! [<code><img height="32" src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/01/asset_upload_file97293_255583.jpg" alt="Git"/></code>](https://git-scm.com/)
 ! [<code><img height="32" src="https://blog.netscandigital.com/wp-content/uploads/2023/07/O-que-e-o-Google-Bard.png" alt="Bard"/></code>](https://bard.google.com/chat?hl=pt)
 </div>
+
 ## Fontes consultadas 
 * [Alura - Como escrever um bom README.md](https://www.alura.com.br/artigos/escrever-bom-readme)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/forms/checks-radios/#radios)
