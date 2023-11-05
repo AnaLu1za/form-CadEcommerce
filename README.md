@@ -1,4 +1,5 @@
 # Formulário de Cadastro
+Formulário de cadastro e-commerce, cujo o objetivo foi: analisar 4 sites e-commerce escolhidos e com base nisso fazer o próprio site, contendo tudo que foi identificado como importante durante o estudo. O formulário foi montado a partir de códigos disponiveis no [Bootstrap 5](https://getbootstrap.com/), pois deveria ser responsivo.
 ## Índice 
 * [Descrição](#descrição)
 * [Introdução](#introdução)
